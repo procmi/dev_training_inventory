@@ -42,6 +42,11 @@ fun InventoryApp(navController: NavHostController = rememberNavController()) {
     InventoryNavHost(navController = navController)
 }
 
+@Composable
+fun kunda () {
+
+}
+
 /**
  * App bar to display title and conditionally display the back navigation.
  */
